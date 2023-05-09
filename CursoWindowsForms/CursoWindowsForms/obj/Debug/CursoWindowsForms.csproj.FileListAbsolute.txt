@@ -1,0 +1,165 @@
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csprojAssemblyReference.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CopyComplete
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_MDI.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemostracaoKey_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Questao.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ArquivoImagem_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Login.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseEventos.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCaptura.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCursor.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Menu_Flutuante.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_CadastroCliente_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\Newtonsoft.Json.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\Newtonsoft.Json.xml
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Busca.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\bin\Debug\Newtonsoft.Json.dll
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\bin\Debug\Newtonsoft.Json.xml
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csprojAssemblyReference.cache
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ArquivoImagem_UC.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemostracaoKey_UC.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld_UC.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Login.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara_UC.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_CadastroCliente_UC.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Menu_Flutuante.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCaptura.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCursor.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseEventos.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Busca.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_MDI.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_UC.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Questao.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF_UC.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2_UC.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha_UC.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CopyComplete
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\Databases\Fichario.mdf
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\Databases\Fichario_log.ldf
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\Databases\Fichario.mdf
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\Databases\Fichario_log.ldf
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ArquivoImagem_UC.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemostracaoKey_UC.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld_UC.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Login.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara_UC.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_CadastroCliente_UC.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Menu_Flutuante.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCaptura.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCursor.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseEventos.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Busca.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_MDI.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_UC.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Questao.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF_UC.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2_UC.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha_UC.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\Databases\Fichario.mdf
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\Databases\Fichario_log.ldf
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.dll.config
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ArquivoImagem_UC.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemostracaoKey_UC.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld_UC.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Login.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara_UC.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_CadastroCliente_UC.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Menu_Flutuante.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCaptura.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCursor.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseEventos.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Busca.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_MDI.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_UC.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Questao.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF_UC.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2_UC.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha_UC.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CopyComplete
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb

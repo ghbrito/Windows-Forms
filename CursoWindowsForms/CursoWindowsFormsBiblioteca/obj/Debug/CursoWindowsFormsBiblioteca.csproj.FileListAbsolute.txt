@@ -1,0 +1,55 @@
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.xml
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csprojAssemblyReference.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CopyComplete
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.dll
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.xml
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csprojAssemblyReference.cache
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CopyComplete
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Estudo\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Databases\Fichario.mdf
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Databases\Fichario_log.ldf
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Databases\Fichario.mdf
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Databases\Fichario_log.ldf
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\Admin\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Databases\Fichario.mdf
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Databases\Fichario_log.ldf
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll.config
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CopyComplete
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\NOTAS SERVIDOR\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Databases\Fichario.mdf
+C:\Users\NOTAS SERVIDOR\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Databases\Fichario_log.ldf
+C:\Users\NOTAS SERVIDOR\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll.config
+C:\Users\NOTAS SERVIDOR\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\NOTAS SERVIDOR\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\NOTAS SERVIDOR\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NOTAS SERVIDOR\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NOTAS SERVIDOR\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+C:\Users\NOTAS SERVIDOR\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\NOTAS SERVIDOR\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CopyComplete
+C:\Users\NOTAS SERVIDOR\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\NOTAS SERVIDOR\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
